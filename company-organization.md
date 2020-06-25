@@ -22,6 +22,24 @@ Questions to ask interviewers about their company and organization.
 
 * What is the average employement length and rentention rate of staff?
 
+## Structural
+
+* Describe the structure of the Organizaiton
+
+  * How did the organizational structure evolve to today?
+
+  * Was the growth organic?
+
+  * Are there any "committees" setup in the organization?
+
+    * How many committees are there, and how many people reside on each
+      committee?
+
+* How does this structure empower the business and drive results?
+
+* How does this structure afford employees the ability to provide the best
+  results possible?
+
 ## People
 
 * How are full-time candidates selected and qaulified?
