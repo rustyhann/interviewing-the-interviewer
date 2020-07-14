@@ -24,6 +24,8 @@ Questions to ask interviewers about their company and organization.
 
 ## Structural
 
+* Will this position be layering an individual in existing position?
+
 * Describe the structure of the Organizaiton
 
   * How did the organizational structure evolve to today?
